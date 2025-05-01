@@ -33,10 +33,10 @@
 
 ## 📬 Let's Connect
 
-- 🌐 [LinkedIn](https://linkedin.com/in/yourusername)  
+- 🌐 [LinkedIn](https://linkedin.com/in/fromneuron)  
 - 📸 [Instagram (Farsi)](https://instagram.com/yourusername)  
 - 📂 [Portfolio Projects (coming soon)](https://yourwebsite.com)  
-- 📧 Email: your@email.com  
+- 📧 Email: mohammadmehdihajihosseini@gmail.com 
 
 ---
 
