@@ -24,13 +24,17 @@
 
 ---
 
-## 📚 Learning Roadmap (2024–2026)
+## 📚 Learning Roadmap (2025–2027)
 
 - Year 1: Build solid foundations in Python, data analysis, and neuroscience basics
 - Year 2: Master ML, deep learning, cognitive models, and prepare for a PhD in Neuroscience
 
 ---
 
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mindlayers&show_icons=true&theme=radical)
+
+---
 ## 📬 Let's Connect
 
 - 🌐 [LinkedIn](https://linkedin.com/in/fromneuron)  
