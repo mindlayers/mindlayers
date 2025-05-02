@@ -29,8 +29,8 @@
 - Year 1: Build solid foundations in Python, data analysis, and neuroscience basics
 - Year 2: Master ML, deep learning, cognitive models, and prepare for a PhD in Neuroscience
 - check more details:👇👇👇
+<sub>🌟 [roadmap for Data Science](https://github.com/mindlayers/roadmap-to-master-data-science) 🚀📊🧠<sub>
 
-<sub> 🌟 [roadmap for Data Science](https://github.com/mindlayers/roadmap-to-master-data-science) 🚀📊🧠<sub>
 ---
 
 ## 📬 Let's Connect
