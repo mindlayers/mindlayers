@@ -31,10 +31,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mindlayers&show_icons=true&theme=radical)
-
----
 ## 📬 Let's Connect
 
 - 🌐 [LinkedIn](https://linkedin.com/in/fromneuron)  
@@ -43,5 +39,4 @@
 - 📧 Email: mohammadmehdihajihosseini@gmail.com 
 
 ---
-
 > “It always seems impossible until it’s done.” — Nelson Mandela
